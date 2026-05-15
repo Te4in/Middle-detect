@@ -1,0 +1,3 @@
+module yourapp
+
+go 1.21
